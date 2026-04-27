@@ -7,6 +7,7 @@
 
 
 ![Header Image](images/votre_image_principale.png)
+<img src="chemin/vers/ton/image.png" width="600">
 
 ## 📋 Présentation
 Ce projet développe un modèle d'analyse spatiale permettant de cibler des zones géographiques stratégiques en fonction d'indicateurs socio-démographiques. Il combine la puissance de la **Data Science** et du **SIG** pour transformer des données brutes en insights décisionnels.
