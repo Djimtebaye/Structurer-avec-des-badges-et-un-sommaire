@@ -3,7 +3,7 @@
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-%23150458.svg?style=for-the-badge&logo=geopandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-# Structurer-avec-des-badges-et-un-sommaire
+# Modèle de ciblage géosocial
 
 <img src="Cartes/health_access_cluster.png" width="500">
 
