@@ -5,9 +5,7 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 # Structurer-avec-des-badges-et-un-sommaire
 
-
-![Header Image](Cartes/health_access_cluster.png)
-<img src="Cartes/health_access_clusterff.png" width="600">
+<img src="Cartes/health_access_cluster.png" width="500">
 
 ## 📋 Présentation
 Ce projet développe un modèle d'analyse spatiale permettant de cibler des zones géographiques stratégiques en fonction d'indicateurs socio-démographiques. Il combine la puissance de la **Data Science** et du **SIG** pour transformer des données brutes en insights décisionnels.
