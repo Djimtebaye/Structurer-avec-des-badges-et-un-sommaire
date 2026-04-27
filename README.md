@@ -6,8 +6,8 @@
 # Structurer-avec-des-badges-et-un-sommaire
 
 
-![Header Image](images/votre_image_principale.png)
-<img src="Cartes/health_access_cluster.png" width="600">
+![Header Image](Cartes/health_access_cluster.png)
+<img src="Cartes/health_access_clusterff.png" width="600">
 
 ## 📋 Présentation
 Ce projet développe un modèle d'analyse spatiale permettant de cibler des zones géographiques stratégiques en fonction d'indicateurs socio-démographiques. Il combine la puissance de la **Data Science** et du **SIG** pour transformer des données brutes en insights décisionnels.
