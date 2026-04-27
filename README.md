@@ -29,5 +29,5 @@ Ce type de modèle est essentiel pour :
 
 ## ⚙️ Installation
 ```bash
-git clone [https://github.com/Djimtebaye/geo-social-targeting-model.git](https://github.com/Djimtebaye/geo-social-targeting-model.git)
+git clone [https://github.com/Djimtebaye/Structurer-avec-des-badges-et-un-sommaire.git](https://github.com/Djimtebaye/Structurer-avec-des-badges-et-un-sommaire.git)
 pip install -r requirements.txt
